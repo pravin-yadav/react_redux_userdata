@@ -1,0 +1,16 @@
+{
+  "editor.formatOnSave": true,
+  "javascript.format.enable": true,
+  "prettier.eslintIntegration": true,
+  "eslint.autoFixOnSave": true,
+  "editor.insertSpaces": true,
+  "eslint.validate": ["javascript", "javascriptreact"],
+  "emmet.showExpandedAbbreviation": "always",
+  "prettier.parser": "babylon",
+  "prettier.semi": true,
+  "prettier.javascriptEnable": ["javascript", "javascriptreact"],
+  "prettier.typescriptEnable": ["typescript", "typescriptreact"],
+  "prettier.cssEnable": ["css", "less", "scss"],
+  "prettier.jsonEnable": ["json"],
+  "editor.formatOnType": true
+}
